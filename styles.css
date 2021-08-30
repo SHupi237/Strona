@@ -1,4 +1,4 @@
-@media only screen and (min-width: 600px){
+/* @media only screen and (min-width: 600px){
     body {
       background-color: red;
     }
@@ -7,4 +7,18 @@
     body {
       background-color: blue;
     }
-  }
+  } */
+body{
+    background-color: pink;
+    font-family: Lobster;
+}
+ul{
+    list-style-type: none;
+}
+.hidden{
+  display: none;
+}
+.display{
+  list-style-type: none;
+
+}
